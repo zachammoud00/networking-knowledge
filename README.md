@@ -6,6 +6,7 @@ This repository serves as a personal knowledge base for my broader network engin
 
 The goal is to develop a deeper understanding of how network protocols operate, how they interact, and how to analyse and troubleshoot network behaviour in practice.
 
+
 ## Repository Structure 
 
 ```
