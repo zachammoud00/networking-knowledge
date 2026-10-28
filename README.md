@@ -11,10 +11,18 @@ The goal is to develop a deeper understanding of how network protocols operate, 
 
 ```
 networking-knowledge/
-├── internet-protocol/
+├── foundations/
+│   ├── bits-and-bytes/
+│   ├── binary/
+│   ├── hexadecimal/
+│   ├── number-system-conversions/
+│   ├── bitwise-operations/
+│   └── subnetting/
 ├── ethernet/
 ├── arp/
-├── ipv4-ipv6/
+├── internet-protocol/
+│   ├── ipv4/
+│   └── ipv6/
 ├── icmp/
 ├── tcp/
 ├── udp/
