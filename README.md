@@ -10,7 +10,7 @@ The goal is to develop a deeper understanding of how network protocols operate, 
 
 ```
 networking-knowledge/
-├── internet-protocol
+├── internet-protocol/
 ├── ethernet/
 ├── arp/
 ├── ipv4-ipv6/
